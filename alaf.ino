@@ -43,8 +43,8 @@ U0T	      RX
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "SergeyV";
-const char* password = "NataliaAndSergey0511";
+const char* ssid = "";
+const char* password = "";
 
 void startCameraServer();
 void setupLedFlash(int pin);
